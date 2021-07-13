@@ -12,18 +12,18 @@ This current working directory contains:
 
 5_llr_test/ contains:  
     1. Data/ contains:  
-        A. Bib/bib.csv  
+        * Bib/bib.csv  
             contains metadata for SIV-macaque database, stored as CSV files.  
-        B. CSV files  
+        * CSV files  
             named [PubMed ID]_[Source of data, e.g., figure or table].csv  
     2. Executable/ contains:  
-        A. jls_animal_format.py, B. jls_animal_io.py, C. jls_animal_model.py  
+        * jls_animal_format.py, jls_animal_io.py, jls_animal_model.py  
             auxiliary subroutines  
-        D. to_summary.log  
-            output log file produced as to_summary.py runs, to identify computational problems 
-        E. to_summary.py  
+        * to_summary.log  
+            output log file produced as to_summary.py runs, to identify computational problems  
+        * to_summary.py  
             the program file that inputs Data/ and computes Output/  
-        F. to_summary_controls_make.py  
+        * to_summary_controls_make.py  
             drives the program in to_summary.py by providing parameters  
     3. Output/Backup/summary.csv is the output of the program, appearing as Output/summary.csv.  
         Note that the maximization of the frailty models is not perfectly reproducible, 

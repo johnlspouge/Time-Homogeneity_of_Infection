@@ -30,7 +30,7 @@ This current working directory contains:
             the program file that inputs Data/ and computes Output/</li>
             <li>to_summary_controls_make.py  
             drives the program in to_summary.py by providing parameters</li>
-        <ul>
+        </ul>
     </li> 
     <li>Output/Backup/summary.csv is the output of the program, appearing as Output/summary.csv.<br\>
         Note that the maximization of the frailty models is not perfectly reproducible, 

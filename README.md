@@ -21,14 +21,17 @@ This current working directory contains:
             named [PubMed ID]_[Source of data, e.g., figure or table].csv</li> 
         </ul>
     <li>Executable/ contains:  
-        * jls_animal_format.py, jls_animal_io.py, jls_animal_model.py  
-            auxiliary subroutines  
-        * to_summary.log  
-            output log file produced as to_summary.py runs, to identify computational problems  
-        * to_summary.py  
-            the program file that inputs Data/ and computes Output/  
-        * to_summary_controls_make.py  
-            drives the program in to_summary.py by providing parameters </li> 
+        <ul>
+            <li>jls_animal_format.py, jls_animal_io.py, jls_animal_model.py  
+                auxiliary subroutines</li>
+            <li>to_summary.log  
+            output log file produced as to_summary.py runs, to identify computational problems</li>
+           <li>to_summary.py  
+            the program file that inputs Data/ and computes Output/</li>
+            <li>to_summary_controls_make.py  
+            drives the program in to_summary.py by providing parameters</li>
+        <ul>
+    </li> 
     <li>Output/Backup/summary.csv is the output of the program, appearing as Output/summary.csv.  
         Note that the maximization of the frailty models is not perfectly reproducible, 
         because their likelihood surfaces are multimodal. Maximization therefore requires a 

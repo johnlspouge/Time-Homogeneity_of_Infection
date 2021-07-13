@@ -1,0 +1,29 @@
+PMID,Source,Bib,Virus,Cite,Macaque,Route,Weeks
+15564513,Table-1,"{Ma, 2004 #3910}",SIVmac251,10,Rhesus,Vaginal,1
+15671796,Figure-4A,"{Van Rompay, 2005 #3915}",SIVmac251,11,Rhesus,Oral,1
+16725169,Figure-1,"{Ellenberger, 2006 #3881}",SHIV-SF162P3,12,Pigtailed,Rectal,1
+16731926,Table-2,"{Wilson, 2006 #3894}",SIVmac239,13,Rhesus,Rectal,1
+18254653,Figure-2,"{Garcia-Lerma, 2008 #3883}",SHIV-SF162P3,14,Rhesus,Rectal,1
+19219024,Figure-4c,"{Hansen, 2009 #3895}",SIVmac239,15,Rhesus,Rectal,1
+19403685,Table-2,"{Wilson, 2009 #3884}",SIVsmE660,16,Rhesus,Rectal,3
+19525965,Figure-2,"{Hessell, 2009 #3908}",SHIV-SF162P3,17,Rhesus,Vaginal,0.5
+20592091,Table-1,"{Reynolds, 2010 #3913}",SIVsmE660,18,Rhesus,Rectal,1
+21543722,Figure-1A,"{Letvin, 2011 #3885}",SIVmac251,19,Rhesus,Rectal,1
+21543722,Figure-1B,"{Letvin, 2011 #3885}",SIVsmE660,20,Rhesus,Rectal,1
+21543722,Figure-1C,"{Letvin, 2011 #3885}",SIVsmE660,21,Rhesus,Rectal,1
+21562493,Figure-S6,"{Hansen, 2011 #3886}",SIVmac239,22,Rhesus,Rectal,1
+22217938,Figure-1e,"{Barouch, 2012 #3892}",SIVmac251,23,Rhesus,Rectal,1
+22217938,Figure-3e,"{Barouch, 2012 #3892}",SIVmac251,24,Rhesus,Rectal,1
+23175374,Figure-1B,"{Pegu, 2013 #3875}",SIVmac251,25,Rhesus,Rectal,1
+23401588,Figure-3AB,"{Strbo, 2013 #3876}",SIVmac251,26,Rhesus,Rectal,1
+23401588,Figure-3C,"{Strbo, 2013 #3876}",SIVmac251,27,Rhesus,Rectal,1
+24352234,Figure-1a,"{Roederer, 2014 #3891}",SIVsmE660,28,Rhesus,Rectal,1
+26743846,Figure-1B,"{Radzio, 2016 #4031}",SHIV-SF162P3,29,Pigtailed,Vaginal,1
+27239761,Figure-1bc,"{Vaccari, 2016 #3893}",SIVmac251,30,Rhesus,Rectal,1
+27252535,Figure-1C,"{Jensen, 2016 #4029}",SIVmac251,31,Rhesus,Oral,1
+27355414,Figure-1A,"{Butler, 2016 #4030}",SHIV-SF162P3,32,Pigtailed,Vaginal,1
+27591322,Figure-4E,"{Gordon, 2016 #3874}",SIVmac251,33,Rhesus,Rectal,1
+28302457,Figure-2c,"{Xu, 2017 #4033}",SIVmac251,34,Rhesus,Rectal,1
+29359183,Figure-7A,"{Eudailey, 2018 #4032}",SHIV-1157ipd3N4,35,Rhesus,Oral,1
+29785023,Figure-1b,"{Vaccari, 2018 #3877}",SIVmac251,36,Rhesus,Rectal,1
+32881968,Figure-1B,"{Om, 2020 #4028}",SHIV-1157ipd3N4,37,Rhesus,Rectal,1

@@ -32,7 +32,7 @@ This current working directory contains:
             drives the program in to_summary.py by providing parameters</li>
         </ul>
     </li> 
-    <li>Output/Backup/summary.csv is the output of the program, appearing as Output/summary.csv.<br\>
+    <li>Output/Backup/summary.csv is the output of the program, appearing as Output/summary.csv.  
         Note that the maximization of the frailty models is not perfectly reproducible, 
         because their likelihood surfaces are multimodal. Maximization therefore requires a 
         randomized algorithm, which may not be perfectly reproducible across hardware. The

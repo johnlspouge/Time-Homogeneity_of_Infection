@@ -6,11 +6,11 @@ README
 Code is written in Python.
 Installation of the appropriate Python packages is assumed.
 
-This current working directory contains:  
+This current working directory contains:
     <ol>
-    <li>This file README</li>  
-    <li>The directory 5_llr_test/ (abbreviating "Log Likelihood-Ratio Test")</li>   
-    </ol> 
+    <li>This file README</li>
+    <li>The directory 5_llr_test/ (abbreviating "Log Likelihood-Ratio Test")</li>
+    </ol>
 5_llr_test/ contains:  
     1. Data/ contains:  
         * Bib/bib.csv  

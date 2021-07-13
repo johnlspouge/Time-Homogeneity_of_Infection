@@ -7,9 +7,10 @@ Code is written in Python.
 Installation of the appropriate Python packages is assumed.
 
 This current working directory contains:  
-    1. This file README  
-    2. The directory 5_llr_test/ (abbreviating "Log Likelihood-Ratio Test")  
-
+    <ol>
+    <li>This file README</li>  
+    <li>The directory 5_llr_test/ (abbreviating "Log Likelihood-Ratio Test")</li>   
+    </ol> 
 5_llr_test/ contains:  
     1. Data/ contains:  
         * Bib/bib.csv  
